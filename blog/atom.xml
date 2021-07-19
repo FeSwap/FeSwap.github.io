@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://docs.feswap.io/blog</id>
+    <title>FeSwap Blog</title>
+    <updated>2021-03-26T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://docs.feswap.io/blog"/>
+    <subtitle>FeSwap Blog</subtitle>
+    <icon>https://docs.feswap.io/img/favicon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Welcome]]></title>
+        <id>welcome</id>
+        <link href="https://docs.feswap.io/blog/welcome"/>
+        <updated>2021-03-26T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Based on the FreeSwap Protocol, FeSwap Exchange targets to provide FREE decentralized crypto exchange to all the world.]]></summary>
+    </entry>
+</feed>
