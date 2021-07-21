@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[28],{100:function(a){a.exports=JSON.parse('{"allTagsPath":"/cn/blog/tags","slug":"free-swap","name":"freeswap","count":1,"permalink":"/cn/blog/tags/free-swap"}')}}]);
