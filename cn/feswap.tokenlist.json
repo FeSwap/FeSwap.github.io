@@ -1,9 +1,9 @@
 {
   "name": "FeSwap Token List",
-  "timestamp": "2021-07-22T16:00:00+00:00",
+  "timestamp": "2021-07-22T15:00:00+00:00",
   "version": {
     "major": 1,
-    "minor": 2,
+    "minor": 3,
     "patch": 0
   },
   "tags": {},
@@ -194,7 +194,8 @@
       "address": "0xd3A691C852CDB01E281545A27064741F0B7f6825",
       "name": "Wrapped BTC",
       "symbol": "WBTC",
-      "decimals": 8
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/ctoken_wbtc.svg"      
     },
 		{
       "chainId": 1,
@@ -370,7 +371,7 @@
       "symbol": "WETH",
       "decimals": 18,
       "chainId": 3,
-      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xc778417E063141139Fce010982780140Aa0cD5Ab/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
     },    
     {
       "name": "Wrapped Ether",
@@ -378,7 +379,7 @@
       "symbol": "WETH",
       "decimals": 18,
       "chainId": 4,
-      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xc778417E063141139Fce010982780140Aa0cD5Ab/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
     },    
     {
       "name": "Wrapped Ether",
@@ -386,7 +387,7 @@
       "symbol": "WETH",
       "decimals": 18,
       "chainId": 5,
-      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xB4FBF271143F4FBf7B91A5ded31805e42b2208d6/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
     },    
     {
       "name": "Wrapped Ether",
