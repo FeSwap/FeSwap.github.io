@@ -6,7 +6,7 @@
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://wwww.feswap.io/cn/blog"/>
     <subtitle>FeSwap Blog</subtitle>
-    <icon>https://wwww.feswap.io/cn/img/favicon.png</icon>
+    <icon>https://wwww.feswap.io/cn/img/Fesw.png</icon>
     <entry>
         <title type="html"><![CDATA[Welcome]]></title>
         <id>welcome</id>
