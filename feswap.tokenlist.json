@@ -1,9 +1,9 @@
 {
   "name": "FeSwap Token List",
-  "timestamp": "2021-07-22T14:00:00+00:00",
+  "timestamp": "2021-07-22T16:00:00+00:00",
   "version": {
     "major": 1,
-    "minor": 1,
+    "minor": 2,
     "patch": 0
   },
   "tags": {},
@@ -45,6 +45,46 @@
       "decimals": 18,
       "logoURI": "https://www.feswap.io/img/Fesw.png"
     },
+    {
+      "chainId": 1,
+      "address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+      "name": "USD Coin USDC",
+      "symbol": "USDC",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_USDC.svg"
+    },    
+    {
+      "chainId": 3,
+      "address": "0x07865c6E87B9F70255377e024ace6630C1Eaa37F",
+      "name": "USD Coin USDC",
+      "symbol": "USDC",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_USDC.svg"
+    },
+    {
+      "chainId": 4,
+      "address": "0x4DBCdF9B62e891a7cec5A2568C3F4FAF9E8Abe2b",
+      "name": "USD Coin USDC",
+      "symbol": "USDC",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_USDC.svg"
+    },    
+    {
+      "chainId": 5,
+      "address": "0xD87Ba7A50B2E7E660f678A895E4B72E7CB4CCd9C",
+      "name": "USD Coin USDC",
+      "symbol": "USDC",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_USDC.svg"
+    },
+    {
+      "chainId": 42,
+      "address": "0xb7a4F3E9097C08dA09517b5aB877F7a917224ede",
+      "name": "USD Coin USDC",
+      "symbol": "USDC",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_USDC.svg"
+    },        
     {
       "chainId": 1,
       "address": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
@@ -122,28 +162,32 @@
       "address": "0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599",
       "name": "Wrapped BTC",
       "symbol": "WBTC",
-      "decimals": 8
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/ctoken_wbtc.svg"
     },
     {
       "chainId": 3,
       "address": "0x442Be68395613bDCD19778e761f03261ec46C06D",
       "name": "Wrapped BTC",
       "symbol": "WBTC",
-      "decimals": 8
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/ctoken_wbtc.svg"
     },
     {
       "chainId": 4,
       "address": "0x577D296678535e4903D59A4C929B718e1D575e0A",
       "name": "Wrapped BTC",
       "symbol": "WBTC",
-      "decimals": 8
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/ctoken_wbtc.svg"
     },
     {
       "chainId": 5,
       "address": "0xC04B0d3107736C32e19F1c62b2aF67BE61d63a05",
       "name": "Wrapped BTC",
       "symbol": "WBTC",
-      "decimals": 8
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/ctoken_wbtc.svg"
     },
     {
       "chainId": 42,
