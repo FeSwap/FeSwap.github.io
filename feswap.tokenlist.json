@@ -630,14 +630,6 @@
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x04Fa0d235C4abf4BcF4787aF4CF447DE572eF828/logo.png"
     },
     {
-      "name": "USDCoin",
-      "address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
-      "symbol": "USDC",
-      "decimals": 6,
-      "chainId": 1,
-      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
-    },
-    {
       "chainId": 1,
       "address": "0x0bc529c00C6401aEF6D220BE8C6Ea1667F6Ad93e",
       "name": "yearn finance",
