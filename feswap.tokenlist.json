@@ -46,6 +46,38 @@
       "logoURI": "https://www.feswap.io/img/Fesw.png"
     },
     {
+      "chainId": 3,
+      "address": "0x07433CBC66A6beC9FD60d21810fF5DFC7CcA93Eb",
+      "name": "FESW Test Token",
+      "symbol": "FEST",
+      "decimals": 18,
+      "logoURI": "https://www.feswap.io/img/FeswT.png"
+    },
+    {
+      "chainId": 4,
+      "address": "0x07433CBC66A6beC9FD60d21810fF5DFC7CcA93Eb",
+      "name": "FESW Test Token",
+      "symbol": "FEST",
+      "decimals": 18,
+      "logoURI": "https://www.feswap.io/img/FeswT.png"
+    },
+    {
+      "chainId": 5,
+      "address": "0x07433CBC66A6beC9FD60d21810fF5DFC7CcA93Eb",
+      "name": "FESW Test Token",
+      "symbol": "FEST",
+      "decimals": 18,
+      "logoURI": "https://www.feswap.io/img/FeswT.png"
+    },
+    {
+      "chainId": 42,
+      "address": "0x07433CBC66A6beC9FD60d21810fF5DFC7CcA93Eb",
+      "name": "FESW Test Token",
+      "symbol": "FEST",
+      "decimals": 18,
+      "logoURI": "https://www.feswap.io/img/FeswT.png"
+    },
+    {
       "chainId": 1,
       "address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
       "name": "USD Coin USDC",
