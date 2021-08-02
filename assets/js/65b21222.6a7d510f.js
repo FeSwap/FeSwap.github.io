@@ -1,0 +1,1 @@
+(self.webpackChunkfeswap_docs=self.webpackChunkfeswap_docs||[]).push([[4491],{2923:function(a){"use strict";a.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"liquidity-farming","name":"liquidity farming","count":1,"permalink":"/blog/tags/liquidity-farming"}')}}]);

@@ -4,9 +4,16 @@
         <title>FeSwap Blog</title>
         <link>https://wwww.feswap.io/cn/blog</link>
         <description>FeSwap Blog</description>
-        <lastBuildDate>Fri, 26 Mar 2021 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 Aug 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[FeSwap Released for Test]]></title>
+            <link>https://wwww.feswap.io/cn/blog/21-08-01</link>
+            <guid>21-08-01</guid>
+            <pubDate>Sun, 01 Aug 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[After 4 months developing, now FeSwap is ready to be launched! 👏👏👏]]></description>
+        </item>
         <item>
             <title><![CDATA[Welcome]]></title>
             <link>https://wwww.feswap.io/cn/blog/welcome</link>

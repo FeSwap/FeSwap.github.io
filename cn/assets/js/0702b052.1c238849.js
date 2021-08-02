@@ -1,0 +1,1 @@
+(self.webpackChunkfeswap_docs=self.webpackChunkfeswap_docs||[]).push([[5570],{8095:function(e){"use strict";e.exports=JSON.parse('{"allTagsPath":"/cn/blog/tags","slug":"free-exchange","name":"free exchange","count":1,"permalink":"/cn/blog/tags/free-exchange"}')}}]);
