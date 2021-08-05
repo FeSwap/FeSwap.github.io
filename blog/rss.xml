@@ -4,9 +4,16 @@
         <title>FeSwap Blog</title>
         <link>https://wwww.feswap.io/blog</link>
         <description>FeSwap Blog</description>
-        <lastBuildDate>Sun, 01 Aug 2021 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Aug 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[User Guidance Available]]></title>
+            <link>https://wwww.feswap.io/blog/21-08-05</link>
+            <guid>21-08-05</guid>
+            <pubDate>Thu, 05 Aug 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[Decentralized exchange is some complicated from the user experience standpoint.]]></description>
+        </item>
         <item>
             <title><![CDATA[FeSwap Released for Test]]></title>
             <link>https://wwww.feswap.io/blog/21-08-01</link>
