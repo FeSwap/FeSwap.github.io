@@ -14,6 +14,14 @@
   ],
   "tokens": [
     {
+      "chainId": 1,
+      "address": "0x4269eaec0710b874ea55e2AeDc8Fb66223522Bbe",
+      "name": "FeSwap DAO",
+      "symbol": "FESW",
+      "decimals": 18,
+      "logoURI": "https://www.feswap.io/img/Fesw.png"
+    },
+    {
       "chainId": 3,
       "address": "0xcfcC81C508a8025879a27257cC0f699F9f2016AB",
       "name": "FeSwap DAO",
