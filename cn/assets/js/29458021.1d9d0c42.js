@@ -1,0 +1,1 @@
+(self.webpackChunkfeswap_docs=self.webpackChunkfeswap_docs||[]).push([[6735],{8925:function(a){"use strict";a.exports=JSON.parse('{"allTagsPath":"/cn/blog/tags","slug":"appha-release","name":"appha release","count":1,"permalink":"/cn/blog/tags/appha-release"}')}}]);

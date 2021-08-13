@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://wwww.feswap.io/blog</id>
-    <title>FeSwap Blog</title>
-    <updated>2021-08-05T00:00:00.000Z</updated>
+    <title>FeSwap is Alive Blog</title>
+    <updated>2021-08-12T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://wwww.feswap.io/blog"/>
-    <subtitle>FeSwap Blog</subtitle>
+    <subtitle>FeSwap is Alive Blog</subtitle>
     <icon>https://wwww.feswap.io/img/Fesw.png</icon>
+    <entry>
+        <title type="html"><![CDATA[FeSwap alpha release]]></title>
+        <id>21-08-12</id>
+        <link href="https://wwww.feswap.io/blog/21-08-12"/>
+        <updated>2021-08-12T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[FeSwap Exchange has been deployed on ETH mainnet now.]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[User Guidance Available]]></title>
         <id>21-08-05</id>

@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
     <channel>
-        <title>FeSwap Blog</title>
+        <title>FeSwap is Alive Blog</title>
         <link>https://wwww.feswap.io/blog</link>
-        <description>FeSwap Blog</description>
-        <lastBuildDate>Thu, 05 Aug 2021 00:00:00 GMT</lastBuildDate>
+        <description>FeSwap is Alive Blog</description>
+        <lastBuildDate>Thu, 12 Aug 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[FeSwap alpha release]]></title>
+            <link>https://wwww.feswap.io/blog/21-08-12</link>
+            <guid>21-08-12</guid>
+            <pubDate>Thu, 12 Aug 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[FeSwap Exchange has been deployed on ETH mainnet now.]]></description>
+        </item>
         <item>
             <title><![CDATA[User Guidance Available]]></title>
             <link>https://wwww.feswap.io/blog/21-08-05</link>

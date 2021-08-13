@@ -1,1 +1,0 @@
-(self.webpackChunkfeswap_docs=self.webpackChunkfeswap_docs||[]).push([[7721],{1470:function(i){"use strict";i.exports=JSON.parse('{"allTagsPath":"/cn/blog/tags","slug":"liquidity-ming","name":"liquidity ming","count":1,"permalink":"/cn/blog/tags/liquidity-ming"}')}}]);
