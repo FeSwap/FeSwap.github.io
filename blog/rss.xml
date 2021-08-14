@@ -4,9 +4,16 @@
         <title>FeSwap is Alive Blog</title>
         <link>https://wwww.feswap.io/blog</link>
         <description>FeSwap is Alive Blog</description>
-        <lastBuildDate>Thu, 12 Aug 2021 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 14 Aug 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[FeSwap First NFT Minted]]></title>
+            <link>https://wwww.feswap.io/blog/21-08-12</link>
+            <guid>21-08-12</guid>
+            <pubDate>Sat, 14 Aug 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[FeSwap first token pair NFT has been minted. Thanks for support!]]></description>
+        </item>
         <item>
             <title><![CDATA[FeSwap alpha release]]></title>
             <link>https://wwww.feswap.io/blog/21-08-12</link>
