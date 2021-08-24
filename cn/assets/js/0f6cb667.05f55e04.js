@@ -1,0 +1,1 @@
+(self.webpackChunkfeswap_docs=self.webpackChunkfeswap_docs||[]).push([[7017],{8618:function(s){"use strict";s.exports=JSON.parse('{"allTagsPath":"/cn/blog/tags","slug":"sponsor","name":"sponsor","count":2,"permalink":"/cn/blog/tags/sponsor"}')}}]);

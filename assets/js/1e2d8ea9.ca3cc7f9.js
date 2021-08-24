@@ -1,0 +1,1 @@
+(self.webpackChunkfeswap_docs=self.webpackChunkfeswap_docs||[]).push([[8064],{3757:function(a){"use strict";a.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"fesw-giveaway","name":"fesw giveaway","count":2,"permalink":"/blog/tags/fesw-giveaway"}')}}]);

@@ -2,11 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://wwww.feswap.io/cn/blog</id>
     <title>FeSwap is Alive Blog</title>
-    <updated>2021-08-15T00:00:00.000Z</updated>
+    <updated>2021-08-24T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://wwww.feswap.io/cn/blog"/>
     <subtitle>FeSwap is Alive Blog</subtitle>
     <icon>https://wwww.feswap.io/cn/img/Fesw.png</icon>
+    <entry>
+        <title type="html"><![CDATA[NFT of pair ETH/USTC minted]]></title>
+        <id>21-08-24_01</id>
+        <link href="https://wwww.feswap.io/cn/blog/21-08-24_01"/>
+        <updated>2021-08-24T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[FeSwap NFT of ETH/USTC token pair has been minted.]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[3.1 ETH Sponsor received]]></title>
+        <id>21-08-24</id>
+        <link href="https://wwww.feswap.io/cn/blog/21-08-24"/>
+        <updated>2021-08-24T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[3.1 ETH are received from two sponsors, and 309993.95 FESW have been given away. Thanks to the two friends.]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ETH🔗WBTC and ETH🔗FESW Minted]]></title>
         <id>21-08-15</id>
