@@ -4,7 +4,7 @@
   "version": {
     "major": 1,
     "minor": 5,
-    "patch": 0
+    "patch": 1
   },
   "tags": {},
   "logoURI": "https://www.feswap.io/img/Fesw.png",
@@ -191,7 +191,7 @@
     },
     {
       "chainId": 5,
-      "address": "0xC73253A937F829aF45f86abC0a5C540373645f88",
+      "address": "0xd2Ebc17f4DaE9e512cAe16DA5Ea9f55b7f65A623",
       "name": "Tether USD",
       "symbol": "USDT",
       "decimals": 6,
