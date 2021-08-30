@@ -1,0 +1,1 @@
+(self.webpackChunkfeswap_docs=self.webpackChunkfeswap_docs||[]).push([[1059],{6178:function(s){"use strict";s.exports=JSON.parse('{"allTagsPath":"/cn/blog/tags","slug":"eth-wbtc","name":"eth/wbtc","count":1,"permalink":"/cn/blog/tags/eth-wbtc"}')}}]);

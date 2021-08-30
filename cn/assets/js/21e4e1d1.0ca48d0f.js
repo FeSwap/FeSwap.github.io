@@ -1,0 +1,1 @@
+(self.webpackChunkfeswap_docs=self.webpackChunkfeswap_docs||[]).push([[6896],{4442:function(s){"use strict";s.exports=JSON.parse('{"allTagsPath":"/cn/blog/tags","slug":"e-th-usdt","name":"eth/usdt","count":1,"permalink":"/cn/blog/tags/e-th-usdt"}')}}]);

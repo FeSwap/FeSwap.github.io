@@ -1,1 +1,0 @@
-(self.webpackChunkfeswap_docs=self.webpackChunkfeswap_docs||[]).push([[1673],{2104:function(s){"use strict";s.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"feswap","name":"feswap","count":8,"permalink":"/blog/tags/feswap"}')}}]);
