@@ -1,0 +1,1 @@
+(self.webpackChunkfeswap_docs=self.webpackChunkfeswap_docs||[]).push([[8051],{6289:function(s){"use strict";s.exports=JSON.parse('{"allTagsPath":"/cn/blog/tags","slug":"eth-fesw","name":"eth/fesw","count":2,"permalink":"/cn/blog/tags/eth-fesw"}')}}]);

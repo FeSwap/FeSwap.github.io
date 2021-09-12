@@ -4,14 +4,21 @@
         <title>FeSwap is Alive Blog</title>
         <link>https://wwww.feswap.io/cn/blog</link>
         <description>FeSwap is Alive Blog</description>
-        <lastBuildDate>Wed, 25 Aug 2021 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Sep 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[FeSwap is really working]]></title>
+            <link>https://wwww.feswap.io/cn/blog/21-09-12</link>
+            <guid>21-09-12</guid>
+            <pubDate>Sun, 12 Sep 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[FeSwap does not charge commision fee, but can make profits for its liquidity providers.]]></description>
+        </item>
         <item>
             <title><![CDATA[Three Swap Pair Created]]></title>
             <link>https://wwww.feswap.io/cn/blog/21-08-29</link>
             <guid>21-08-29</guid>
-            <pubDate>Wed, 25 Aug 2021 00:00:00 GMT</pubDate>
+            <pubDate>Sun, 29 Aug 2021 00:00:00 GMT</pubDate>
             <description><![CDATA[Three FeSwap swap pair NFTs have found their owners, and the corresponding liquidity pools have been created in FeSwap.]]></description>
         </item>
         <item>
