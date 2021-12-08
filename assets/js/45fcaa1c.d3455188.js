@@ -1,0 +1,1 @@
+(self.webpackChunkfeswap_docs=self.webpackChunkfeswap_docs||[]).push([[125],{6705:function(s){"use strict";s.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"polygon","name":"polygon","count":1,"permalink":"/blog/tags/polygon"}')}}]);

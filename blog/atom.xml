@@ -2,11 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://wwww.feswap.io/blog</id>
     <title>FeSwap is Alive Blog</title>
-    <updated>2021-09-12T00:00:00.000Z</updated>
+    <updated>2021-12-08T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://wwww.feswap.io/blog"/>
     <subtitle>FeSwap is Alive Blog</subtitle>
     <icon>https://wwww.feswap.io/img/Fesw.png</icon>
+    <entry>
+        <title type="html"><![CDATA[FeSwap will be live on Polygon]]></title>
+        <id>21-12-08</id>
+        <link href="https://wwww.feswap.io/blog/21-12-08"/>
+        <updated>2021-12-08T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[As Ethereum network is more and more expensive, FeSwap cold-start on Ethereum is quite difficult and seems impossible at this]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[FeSwap is really working]]></title>
         <id>21-09-12</id>
@@ -22,18 +29,18 @@
         <summary type="html"><![CDATA[Three FeSwap swap pair NFTs have found their owners, and the corresponding liquidity pools have been created in FeSwap.]]></summary>
     </entry>
     <entry>
-        <title type="html"><![CDATA[NFT of pair ETH/USTC minted]]></title>
-        <id>21-08-24_01</id>
-        <link href="https://wwww.feswap.io/blog/21-08-24_01"/>
-        <updated>2021-08-24T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[FeSwap NFT of ETH/USTC token pair has been minted.]]></summary>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[3.1 ETH Sponsor received]]></title>
         <id>21-08-24</id>
         <link href="https://wwww.feswap.io/blog/21-08-24"/>
         <updated>2021-08-24T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[3.1 ETH are received from two sponsors, and 309993.95 FESW have been given away. Thanks to the two friends.]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NFT of pair ETH/USTC minted]]></title>
+        <id>21-08-24_01</id>
+        <link href="https://wwww.feswap.io/blog/21-08-24_01"/>
+        <updated>2021-08-24T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[FeSwap NFT of ETH/USTC token pair has been minted.]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[ETH🔗WBTC and ETH🔗FESW Minted]]></title>
