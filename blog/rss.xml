@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
     <channel>
-        <title>FeSwap is Alive Blog</title>
+        <title>FeSwap is live on Polygon Blog</title>
         <link>https://wwww.feswap.io/blog</link>
-        <description>FeSwap is Alive Blog</description>
-        <lastBuildDate>Wed, 08 Dec 2021 00:00:00 GMT</lastBuildDate>
+        <description>FeSwap is live on Polygon Blog</description>
+        <lastBuildDate>Sat, 11 Dec 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[FeSwap airdrop to all ETH participants]]></title>
+            <link>https://wwww.feswap.io/blog/21-12-11</link>
+            <guid>21-12-11</guid>
+            <pubDate>Sat, 11 Dec 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[Totally 10 addresses participated in the FeSwap application testing on Ethereum testnet, and involved in various FeSwap]]></description>
+        </item>
         <item>
             <title><![CDATA[FeSwap will be live on Polygon]]></title>
             <link>https://wwww.feswap.io/blog/21-12-08</link>

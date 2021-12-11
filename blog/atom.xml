@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://wwww.feswap.io/blog</id>
-    <title>FeSwap is Alive Blog</title>
-    <updated>2021-12-08T00:00:00.000Z</updated>
+    <title>FeSwap is live on Polygon Blog</title>
+    <updated>2021-12-11T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://wwww.feswap.io/blog"/>
-    <subtitle>FeSwap is Alive Blog</subtitle>
+    <subtitle>FeSwap is live on Polygon Blog</subtitle>
     <icon>https://wwww.feswap.io/img/Fesw.png</icon>
+    <entry>
+        <title type="html"><![CDATA[FeSwap airdrop to all ETH participants]]></title>
+        <id>21-12-11</id>
+        <link href="https://wwww.feswap.io/blog/21-12-11"/>
+        <updated>2021-12-11T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Totally 10 addresses participated in the FeSwap application testing on Ethereum testnet, and involved in various FeSwap]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[FeSwap will be live on Polygon]]></title>
         <id>21-12-08</id>
