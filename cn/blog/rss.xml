@@ -4,9 +4,16 @@
         <title>FeSwap is live on Polygon Blog</title>
         <link>https://wwww.feswap.io/cn/blog</link>
         <description>FeSwap is live on Polygon Blog</description>
-        <lastBuildDate>Sat, 11 Dec 2021 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Dec 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[FeSwap Officially live on Polygon]]></title>
+            <link>https://wwww.feswap.io/cn/blog/21-12-13</link>
+            <guid>21-12-13</guid>
+            <pubDate>Mon, 13 Dec 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[As scheduled, FeSwap DEX token pair NFT bidding is switched on at 2021-12-12 1200 PM.]]></description>
+        </item>
         <item>
             <title><![CDATA[FeSwap airdrop to all ETH participants]]></title>
             <link>https://wwww.feswap.io/cn/blog/21-12-11</link>

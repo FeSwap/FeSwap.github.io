@@ -1,0 +1,1 @@
+(self.webpackChunkfeswap_docs=self.webpackChunkfeswap_docs||[]).push([[9469],{135:function(a){"use strict";a.exports=JSON.parse('{"allTagsPath":"/cn/blog/tags","slug":"token-pair","name":"token pair","count":1,"permalink":"/cn/blog/tags/token-pair"}')}}]);
