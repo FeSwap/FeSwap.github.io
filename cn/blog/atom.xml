@@ -2,11 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://wwww.feswap.io/cn/blog</id>
     <title>FeSwap is live on Polygon Blog</title>
-    <updated>2021-12-13T00:00:00.000Z</updated>
+    <updated>2021-12-22T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://wwww.feswap.io/cn/blog"/>
     <subtitle>FeSwap is live on Polygon Blog</subtitle>
     <icon>https://wwww.feswap.io/cn/img/Fesw.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Liquidity Mining Launched on 5 Liquidity Pools]]></title>
+        <id>21-12-22</id>
+        <link href="https://wwww.feswap.io/cn/blog/21-12-22"/>
+        <updated>2021-12-22T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Underpined by Polygon's highly cost-effective performance, FeSwap, the world's first and only DEX charging]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[FeSwap Officially live on Polygon]]></title>
         <id>21-12-13</id>

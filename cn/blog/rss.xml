@@ -4,9 +4,16 @@
         <title>FeSwap is live on Polygon Blog</title>
         <link>https://wwww.feswap.io/cn/blog</link>
         <description>FeSwap is live on Polygon Blog</description>
-        <lastBuildDate>Mon, 13 Dec 2021 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Dec 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Liquidity Mining Launched on 5 Liquidity Pools]]></title>
+            <link>https://wwww.feswap.io/cn/blog/21-12-22</link>
+            <guid>21-12-22</guid>
+            <pubDate>Wed, 22 Dec 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[Underpined by Polygon's highly cost-effective performance, FeSwap, the world's first and only DEX charging]]></description>
+        </item>
         <item>
             <title><![CDATA[FeSwap Officially live on Polygon]]></title>
             <link>https://wwww.feswap.io/cn/blog/21-12-13</link>
