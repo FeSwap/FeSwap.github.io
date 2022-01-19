@@ -4,9 +4,23 @@
         <title>FeSwap is live on Polygon Blog</title>
         <link>https://wwww.feswap.io/blog</link>
         <description>FeSwap is live on Polygon Blog</description>
-        <lastBuildDate>Wed, 22 Dec 2021 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Jan 2022 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[FeSwap Airdrop is coming]]></title>
+            <link>https://wwww.feswap.io/blog/22-01-19</link>
+            <guid>22-01-19</guid>
+            <pubDate>Wed, 19 Jan 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[After more than one-month test running, FeSwap has proven that FeSwap Protocol of commission-free is theoretically correct,]]></description>
+        </item>
+        <item>
+            <title><![CDATA[FeSwap Charts is available]]></title>
+            <link>https://wwww.feswap.io/blog/22-01-16</link>
+            <guid>22-01-16</guid>
+            <pubDate>Sun, 16 Jan 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[Based on The Graph protocol and the FeSwap subgraph,]]></description>
+        </item>
         <item>
             <title><![CDATA[Liquidity Mining Launched on 5 Liquidity Pools]]></title>
             <link>https://wwww.feswap.io/blog/21-12-22</link>

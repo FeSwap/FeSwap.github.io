@@ -2,11 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://wwww.feswap.io/cn/blog</id>
     <title>FeSwap is live on Polygon Blog</title>
-    <updated>2021-12-22T00:00:00.000Z</updated>
+    <updated>2022-01-19T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://wwww.feswap.io/cn/blog"/>
     <subtitle>FeSwap is live on Polygon Blog</subtitle>
     <icon>https://wwww.feswap.io/cn/img/Fesw.png</icon>
+    <entry>
+        <title type="html"><![CDATA[FeSwap Airdrop is coming]]></title>
+        <id>22-01-19</id>
+        <link href="https://wwww.feswap.io/cn/blog/22-01-19"/>
+        <updated>2022-01-19T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[After more than one-month test running, FeSwap has proven that FeSwap Protocol of commission-free is theoretically correct,]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FeSwap Charts is available]]></title>
+        <id>22-01-16</id>
+        <link href="https://wwww.feswap.io/cn/blog/22-01-16"/>
+        <updated>2022-01-16T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Based on The Graph protocol and the FeSwap subgraph,]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Liquidity Mining Launched on 5 Liquidity Pools]]></title>
         <id>21-12-22</id>

@@ -1,0 +1,1 @@
+(self.webpackChunkfeswap_docs=self.webpackChunkfeswap_docs||[]).push([[3988],{7694:function(a){"use strict";a.exports=JSON.parse('{"allTagsPath":"/cn/blog/tags","slug":"airdrop","name":"airdrop","count":1,"permalink":"/cn/blog/tags/airdrop"}')}}]);

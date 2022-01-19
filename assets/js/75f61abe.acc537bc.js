@@ -1,0 +1,1 @@
+(self.webpackChunkfeswap_docs=self.webpackChunkfeswap_docs||[]).push([[3360],{4931:function(a){"use strict";a.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"graph-ql","name":"graphql","count":1,"permalink":"/blog/tags/graph-ql"}')}}]);

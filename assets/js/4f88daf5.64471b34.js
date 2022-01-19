@@ -1,1 +1,0 @@
-(self.webpackChunkfeswap_docs=self.webpackChunkfeswap_docs||[]).push([[4676],{8125:function(s){"use strict";s.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"dex","name":"dex","count":1,"permalink":"/blog/tags/dex"}')}}]);

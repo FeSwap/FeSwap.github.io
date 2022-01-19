@@ -1,0 +1,1 @@
+(self.webpackChunkfeswap_docs=self.webpackChunkfeswap_docs||[]).push([[852],{1488:function(s){"use strict";s.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"charts","name":"charts","count":1,"permalink":"/blog/tags/charts"}')}}]);
